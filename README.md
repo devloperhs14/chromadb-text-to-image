@@ -46,8 +46,8 @@ import sys
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 ```
 
+* Rerun : `python3 text-to-image.py`
+
 # Future Direction
 Adding support to handle self loading images from directory, so user dont have to provide the path!
-
-* Rerun : `python3 text-to-image.py`
 
