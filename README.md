@@ -1,3 +1,7 @@
+<p align="center">
+<img src="text_to_img.jpeg" alt="vector_art" width="250" height= "250" />
+</p>
+
 # Text To Image
 A  slef hosted simple app that utilises chromadb's vector search to find the text image similarity and return using gradio interface. Very easy to use and intutive. Follow installation instructions to use for your own.
 
