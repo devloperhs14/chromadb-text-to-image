@@ -6,7 +6,7 @@ Run the following command in sequence in linux shell or mac terminal!
 
 ## 1. Clone repo & cd
 
-`git clone https://github.com/devloperhs14/chromadb-text-to-image.git`
+`git clone https://github.com/devloperhs14/text-to-image-app.git`
 `cd repo_name`
 
 Open the repo in any of the IDE. then!
