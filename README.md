@@ -28,7 +28,7 @@ Open the repo in any of the IDE. then!
 
 If you want to include your own image to test, follow the steps:
 * Put your image in img folder
-* Copy and paste the path of the image in `text-to-img.py` file under image path
+* Copy and paste the path of the image in `text-to-img.py` file under **image path**
 * Rerun the **text-to-image.py** file again
 
 # Trobuleshoot Issues
@@ -45,6 +45,9 @@ __import__('pysqlite3')
 import sys
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 ```
+
+# Future Direction
+Adding support to handle self loading images from directory, so user dont have to provide the path!
 
 * Rerun : `python3 text-to-image.py`
 
